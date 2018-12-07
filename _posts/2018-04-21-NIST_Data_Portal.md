@@ -82,7 +82,7 @@ Site Url: <a href="https://data.nist.gov/" alt="">https://data.nist.gov/</a>
 </tr>
 <tr>
     <td>Backend</td>
-    <td>Spring boot, MongoDB, REST API, Microservice architecture, S3 Storage</td>
+    <td>Spring boot, MongoDB, REST API, Microservices, AWS codedeploy, AWS S3 Storage</td>
 </tr>
 <tr>
     <td>DevOps</td>
